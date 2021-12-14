@@ -1,0 +1,9 @@
+name: csme2_exercise7
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - matplotlib
+  - numpy
+  - jupyterlab
+
